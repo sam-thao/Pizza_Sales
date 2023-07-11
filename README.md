@@ -1,5 +1,5 @@
-# Pizza_Sales
- Data gathering, data cleaning, processing, analysis and dashboard creation in Excel of Pizza Sales Dataset.
+Pizza_Sales
+Data gathering, data cleaning, processing, analysis and dashboard creation in Excel of Pizza Sales Dataset.
 
 Problem Statement
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
